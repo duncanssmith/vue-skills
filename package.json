@@ -2,6 +2,7 @@
   "name": "vue-skills",
   "version": "0.1.0",
   "private": true,
+  "licence": "SEE LICENCE IN licence.txt",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
